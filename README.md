@@ -1,3 +1,7 @@
+adding a commit for feature2 to be in open state 
+
+add a commit to PR to be close
+
 i just want check
 
 
